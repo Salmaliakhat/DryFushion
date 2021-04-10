@@ -1,0 +1,12 @@
+F:\DataMunging\Part3-Dry Fushion\Part3-Dry Fushion\bin\Debug\Part3-Dry Fushion.exe.config
+F:\DataMunging\Part3-Dry Fushion\Part3-Dry Fushion\obj\Debug\Part3-Dry Fushion.csprojResolveAssemblyReference.cache
+F:\DataMunging\Part3-Dry Fushion\Part3-Dry Fushion\bin\Debug\Part3-Dry Fushion.exe
+F:\DataMunging\Part3-Dry Fushion\Part3-Dry Fushion\bin\Debug\Part3-Dry Fushion.pdb
+F:\DataMunging\Part3-Dry Fushion\Part3-Dry Fushion\obj\Debug\Part3-Dry Fushion.exe
+F:\DataMunging\Part3-Dry Fushion\Part3-Dry Fushion\obj\Debug\Part3-Dry Fushion.pdb
+F:\Part3-DryFushion\Part3-Dry Fushion\bin\Debug\Part3-Dry Fushion.exe.config
+F:\Part3-DryFushion\Part3-Dry Fushion\obj\Debug\Part3-Dry Fushion.exe
+F:\Part3-DryFushion\Part3-Dry Fushion\obj\Debug\Part3-Dry Fushion.pdb
+F:\Part3-DryFushion\Part3-Dry Fushion\bin\Debug\Part3-Dry Fushion.exe
+F:\Part3-DryFushion\Part3-Dry Fushion\bin\Debug\Part3-Dry Fushion.pdb
+F:\Part3-DryFushion\Part3-Dry Fushion\obj\Debug\Part3-Dry Fushion.csprojAssemblyReference.cache
